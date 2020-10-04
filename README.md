@@ -8,7 +8,7 @@ You are an office employee traversing floors of puzzles hoping to find the exit.
 
 ## Links
 * [GitHub](https://github.com/rtm516/The-Infinite-Elevators-LD47)
-* [Play (HTML5/WEB)](https://rtm516.github.io/The-Infinite-Elevators-LD47/)
+* [Play (HTML5/WEB)](https://rtm516.itch.io/the-infinite-elevators)
 * [Ludum Dare Page](https://ldjam.com/events/ludum-dare/47/$225012)
 
 ## Screenshots
